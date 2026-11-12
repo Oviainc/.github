@@ -1,6 +1,6 @@
 # Ovia Inc — Studio & Lab
 
-We are Ovia Inc, a studio and lab working in context engineering, AI agent systems, and virtual production — based in the Laurentians and Montréal, working in English, French, and Spanish.
+We are Ovia Inc, a studio and lab working in context engineering, AI agent systems, and virtual production — working internationally in English, French, and Spanish.
 
 Our practice: durable authority in AI operations. We design the systems around models — the context, memory, tooling, and review loops that decide whether an agent deployment works in production or only in a demo — and we build media with the same engineering discipline.
 
